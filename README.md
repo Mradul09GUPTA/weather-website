@@ -1,3 +1,3 @@
 # weather-website
-## contibuted by amman ur rahman ,mradul gupta,harshdeep sarvar
+## contributed by Amman Ur Rahman ,Mradul Gupta,Harshdeep Sarvar
 ## mentored by Dr. Lalit Purohit, Mr. Upendra Singh
